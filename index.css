@@ -1,0 +1,117 @@
+@font-face {
+    font-family: Inter;
+    src: url('./assets/fonts/Inter-VariableFont_slnt\,wght.ttf');
+}
+
+.body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Inter;
+}
+
+img{
+    border-radius: 100px;
+    height: 100px;
+}
+.jessi{
+    color: white;
+    text-align: center;
+    text-decoration: solid;
+    font-size: 30px;
+}
+
+.container{
+    background-color: #312d2d;
+    height: 90vh;
+    width: 400px;
+    border-radius: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.lon{
+    color: rgb(241, 241, 66);
+    text-align: center;
+     
+
+}
+.dev{
+    color: white;
+    text-align: center;
+   
+   
+}
+
+.hubbutton{
+    border: 1px solid #3c4043;
+    height: 50px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: #3c4043;
+  
+
+}
+
+.front-end{
+    height: 50px;
+    border-radius: 10px;
+    display: flex;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    background-color: #3c4043;
+    color: white;
+    border: 1px solid #3c4043;
+    margin-top: 15px;
+
+    
+}
+
+.link{
+    height: 50px;
+    border-radius: 10px;
+    display: flex;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    background-color: #3c4043;
+    color: white;
+    border: 1px solid #3c4043;
+    margin-top: 15px;
+
+}
+.twit{
+    height: 50px;
+    border-radius: 10px;
+    display: flex;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    background-color: #3c4043;
+    color: white;
+    border: 1px solid #3c4043;
+    margin-top: 15px;
+}
+.insta{
+    height: 50px;
+    border-radius: 10px;
+    display: flex;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    background-color: #3c4043;
+    color: white;
+    border: 1px solid #3c4043;
+    margin-top: 15px;
+
+}
+
