@@ -1,6 +1,7 @@
 @font-face {
     font-family: Inter;
     src: url('./assets/fonts/Inter-VariableFont_slnt\,wght.ttf');
+    
 }
 
 .body{
@@ -57,6 +58,7 @@ img{
     justify-content: center;
     color: white;
     background-color: #3c4043;
+    cursor: pointer;
   
 
 }
@@ -72,9 +74,39 @@ img{
     color: white;
     border: 1px solid #3c4043;
     margin-top: 15px;
+    cursor: pointer;
 
     
 }
+
+.hubbutton:hover{
+    background-color:  hsl(75, 94%, 57%);
+    text-decoration: underline ;
+    color: black;
+}
+
+.front-end:hover{
+    background-color:  hsl(75, 94%, 57%);
+     text-decoration: underline ;
+    color: black;
+}
+
+.link:hover{
+    background-color:  hsl(75, 94%, 57%);
+    text-decoration: underline ;
+    color: black;
+}
+.twit:hover{
+    background-color:  hsl(75, 94%, 57%);
+    text-decoration: underline ;
+    color: black;
+}
+.insta:hover{
+    background-color:  hsl(75, 94%, 57%); 
+    text-decoration: underline ;
+    color: black;
+}
+
 
 .link{
     height: 50px;
@@ -87,6 +119,7 @@ img{
     color: white;
     border: 1px solid #3c4043;
     margin-top: 15px;
+    cursor: pointer;
 
 }
 .twit{
@@ -100,6 +133,8 @@ img{
     color: white;
     border: 1px solid #3c4043;
     margin-top: 15px;
+    cursor: pointer;
+
 }
 .insta{
     height: 50px;
@@ -112,6 +147,10 @@ img{
     color: white;
     border: 1px solid #3c4043;
     margin-top: 15px;
+    cursor: pointer;
 
 }
 
+.lin > a{
+    text-decoration: none;
+}
